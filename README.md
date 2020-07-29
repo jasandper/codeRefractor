@@ -1,10 +1,7 @@
-# homework-one
-
-Moved index.html file out to root and changed css reference link to reflect new location.
-
-Added notes
-
-Cleaned up sections and paragraphs. 
+# Initial work
+- Moved index.html file out to root and changed css reference link to reflect new location.
+- Added notes
+- Cleaned up sections and paragraphs. 
 
 # Changes after feedback
 - Changed title to "Horiseon"
